@@ -59,7 +59,7 @@ Feel free to fork this repo and contribute updated notes, new questions, or addi
 
 ## 📬 Let's Connect
 
-If you have suggestions or want to collaborate on mock tests or coding sessions, reach out on [LinkedIn](https://linkedin.com/in/your-profile) or raise an issue.
+If you have suggestions or want to collaborate on mock tests or coding sessions, reach out on [LinkedIn](https://www.linkedin.com/in/vibhu-dixit-b42a11251/) or raise an issue.
 
 ---
 
